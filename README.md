@@ -1,5 +1,5 @@
 EXPLORATORY DATA ANALYSIS -London-Housing-Data
-IN THIS PROJECT ON THE BASIS OF DATA SET FROM KAGGLE BELOW QUERIES ARE RESOLVED BY USING PYTHON & LIBRARIES COMMANDS: dala analysis, data clean up, data visualization tasks are completed. COMMANDS USED:-
+* IN THIS PROJECT ON THE BASIS OF DATA SET FROM KAGGLE BELOW QUERIES ARE RESOLVED BY USING PYTHON & LIBRARIES COMMANDS: dala analysis, data clean up, data visualization tasks are completed. COMMANDS USED:-
 The commands that we used in this project :
 
 * head() - It shows the first N rows in the data (by default, N=5).
